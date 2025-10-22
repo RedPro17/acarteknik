@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.siteniz.com
+
+# Sitemaps
+Sitemap: https://www.siteniz.com/sitemap.xml
