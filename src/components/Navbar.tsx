@@ -60,7 +60,7 @@ export default function Navbar() {
         {/* Mobil menü butonu */}
         <button
           onClick={() => setMenuOpen(!menuOpen)}
-          className="md:hidden p-2 rounded-lg hover:bg-gray-100 transition"
+          className="md:hidden p-2 rounded-lg hover:bg-black transition"
         >
           {menuOpen ? <X size={28} /> : <Menu size={28} />}
         </button>
